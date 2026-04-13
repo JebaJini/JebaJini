@@ -1,9 +1,10 @@
-👋 Hi, I'm Jeba Jini
+👋** Hi, I'm Jeba Jini**
 
 🎯 Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 📍 Based in UAE | Open to Data Science & AI/ML Opportunities
 
 🚀 About Me
+
 💡 Passionate about turning data into actionable insights
 📊 Skilled in Data Analysis, Machine Learning, and Visualization
 🧠 Currently building real-world projects in AI, NLP, and Cybersecurity ML
